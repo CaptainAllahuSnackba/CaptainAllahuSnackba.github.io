@@ -1,0 +1,40 @@
+body{
+	background-color: #2C66C9;
+	font-family: 'Abel', sans-serif;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	color: white;
+	font-size: 50px;
+	text-align: center;
+}
+p {
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+
+img{
+		display: block;
+    margin: auto;
+    width: 50%;
+}
+
+img{
+		 max-width: 100%;
+    height: auto;
+}
+
+h5{
+		font-size: 25px;
+		text-align: center;
+}
+
+p{
+	font-size: 25px;
+	text-align: center;
+}
+
+
